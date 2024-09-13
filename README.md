@@ -32,7 +32,7 @@ Contains the C++ code for matrix multiplication using OpenMP for parallelism.
 The program initializes two matrices `A` and `B`, performs multiplication, and outputs the time taken.
 
 ## Output:
-Matrix Multiplication completed in: 0.00200009 seconds.
+Matrix Multiplication completed in0.00399995seconds.
 Resulting matrix C (size 10x10):
 285 240 195 150 105 60 15 -30 -75 -120
 330 275 220 165 110 55 0 -55 -110 -165
@@ -44,6 +44,7 @@ Resulting matrix C (size 10x10):
 600 485 370 255 140 25 -90 -205 -320 -435
 645 520 395 270 145 20 -105 -230 -355 -480
 690 555 420 285 150 15 -120 -255 -390 -525
+
 
 
 
